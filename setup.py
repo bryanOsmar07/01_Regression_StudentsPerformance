@@ -20,7 +20,7 @@ def get_requirements(file_path:str) -> List[str]:
 setup(
 name='01_Regression_StudentsPerformance',
 version='0.0.1',
-author='bryanosmar',
+author='bryanOsmar07',
 author_email='bryanosmar07@gmail.com',   
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
